@@ -1,7 +1,6 @@
 // lab3.dart
 // Fahriddin Hayitov
 // Lab 3 – Dart Programming Fundamentals 1
-// Tuesday 14:00
 
 // 1. The main Function
 
